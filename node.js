@@ -6,7 +6,7 @@ const Bot = new Discord.Client()
 
 //Main
 Bot.on("ready", ()=>{
-    console.log("Bot is running.")
+    console.log("Bot Telah Aktif!.")
 })
 
 Bot.on("message", (message)=>{
