@@ -14,3 +14,6 @@ Bot.on("message", (message)=>{
         message.reply("Test")
     }
 })
+
+//Login
+Bot.login("DiscordBotToken")
