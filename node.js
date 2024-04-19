@@ -10,8 +10,8 @@ Bot.on("ready", ()=>{
 })
 
 Bot.on("message", (message)=>{
-    if(message.content == ".test"){ //If you type .test on your channel it will reply "Test".
-        message.reply("Test")
+    if(message.content == ".halloo"){ //If you type .test on your channel it will reply "Test".
+        message.reply("Hiiiii")
     }
 })
 
