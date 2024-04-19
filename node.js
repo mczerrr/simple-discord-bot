@@ -16,8 +16,8 @@ Bot.on("message", (message)=>{
     if(message.content == "adarsh"){ //If you type .test on your channel it will reply "Test".
         message.reply("adarsh gantengg")
     }
-    if(message.content == ".halloo"){ //If you type .test on your channel it will reply "Test".
-        message.reply("Hiiiii")
+    if(message.content == "elsa"){ //If you type .test on your channel it will reply "Test".
+        message.reply("elsa cantikkk")
     }
     if(message.content == ".halloo"){ //If you type .test on your channel it will reply "Test".
         message.reply("Hiiiii")
