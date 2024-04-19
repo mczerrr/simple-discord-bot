@@ -22,6 +22,9 @@ Bot.on("message", (message)=>{
     if(message.content == "pagi"){ //If you type .test on your channel it will reply "Test".
         message.reply("pagi jugaa")
     }
+    if(message.content == "siang"){ //If you type .test on your channel it will reply "Test".
+        message.reply("siangg jugaa")
+    }
 })
 
 //Login
