@@ -1,5 +1,5 @@
 discord bot token = !
-prefix = 
+prefix = !
 status = 
 status play = 
 status text = 
