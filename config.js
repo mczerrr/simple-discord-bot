@@ -1,4 +1,4 @@
-discord bot token = 
+discord bot token = !
 prefix = 
 status = 
 status play = 
