@@ -1,1 +1,2 @@
 discord bot token = 
+prefix = 
