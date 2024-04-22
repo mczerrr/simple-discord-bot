@@ -1,5 +1,5 @@
 discord bot token = !
 prefix = !
-status = 
+status = idle
 status play = 
 status text = 
